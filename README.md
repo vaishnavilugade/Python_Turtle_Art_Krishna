@@ -11,7 +11,7 @@
 
 # Introduction :
 
-created a python project using python turtle graphics to draw God Krishna .
+created a python project using python turtle graphics to draw Lord Krishna .
 
 <br>
 
